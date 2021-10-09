@@ -1,4 +1,4 @@
-package com.waquar.springcould.couponservice;
+package com.waquar.springcloud.couponservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

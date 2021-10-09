@@ -1,4 +1,4 @@
-package com.waquar.springcould.couponservice.models;
+package com.waquar.springcloud.couponservice.models;
 
 import javax.persistence.*;
 import java.math.BigDecimal;
