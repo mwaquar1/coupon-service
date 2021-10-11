@@ -1,7 +1,7 @@
-package com.waquar.springcould.couponservice.controller;
+package com.waquar.springcloud.couponservice.controller;
 
-import com.waquar.springcould.couponservice.models.Coupon;
-import com.waquar.springcould.couponservice.repository.CouponRepository;
+import com.waquar.springcloud.couponservice.models.Coupon;
+import com.waquar.springcloud.couponservice.repository.CouponRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
